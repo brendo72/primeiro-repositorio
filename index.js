@@ -1,1 +1,2 @@
-console.log("te amo bb")
+console.log("ta com noss bb")
+console.log("eiinn bb")
